@@ -3,7 +3,7 @@ Sorting visualizer animation created using python libraries like matplotlib and 
 
 # Output of main
 This file contains visualization of bubble sort<br/><br/>
-<img src="https://github.com/avi901/Sorting-Visualizer/Output/bubblesort.gif" data-canonical-src="https://github.com/avi901/Sorting-Visualizer/Output/bubblesort.gif" width="200" height="400" />
+<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40" />
 <br/><br/>
 # Output of mergesort
 This file contains visualization of merge sort<br/><br/>
