@@ -3,8 +3,8 @@ Sorting visualizer animation created using python libraries like matplotlib and 
 
 # Output of main
 This file contains visualization of bubble sort<br/><br/>
-![](output/bubblesort.gif =250x250)
+<img src="https://camo.githubusercontent.com/..." data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="200" height="400" />
 <br/><br/>
 # Output of mergesort
 This file contains visualization of merge sort<br/><br/>
-![](output/mergesort.gif =250x250)
+<img src="https://camo.githubusercontent.com/..." data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="200" height="400" />
