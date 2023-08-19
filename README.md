@@ -1,10 +1,50 @@
-# Sorting-Visualizer
-Sorting visualizer animation created using python libraries like matplotlib and numpy
 
-# Output of main
-This file contains visualization of bubble sort<br/><br/>
-<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40" />
-<br/><br/>
-# Output of mergesort
-This file contains visualization of merge sort<br/><br/>
-<img src="https://" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="200" height="400" />
+<h2 align="center"> Sorting Visualizer </h2>
+<h4 align="center"> Made using Python and Matplotlib Animations Library <h4>
+
+## :fire: Features
+
+- Bubble Sort
+- Merge Sort
+
+## :bulb: Built Using
+
+- [**Python**](https://www.python.org/)
+- [**Numpy**](https://numpy.org/) - For Generating and working with arrays 
+- [**Matplotlib.pyplot**](https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.html) - For interactive plots
+- [**Matplotlib.animation**](https://matplotlib.org/stable/api/animation_api.html) -  Easiest way to make a live animation in matplotlib 
+
+
+
+## :iphone: OUTPUT
+
+| Bubble Sort                             |    Merge Sort                               |
+| --------------------------------- | --------------------------------- |
+| <img src="https://user-images.githubusercontent.com/39644109/139861633-bbd78904-3ad5-457a-9739-edba2120242b.gif"  width="300"/> | <img src="https://cdn-images-1.medium.com/max/546/1*UgLSkudf_8i9AiprpLNBhw.gif"  width="300"/> |
+
+
+## Instructions to run
+
+1. Git clone this repository
+
+2. ```pip install -r requirements.txt ```  to install all the dependencies  
+ 
+3. ```python sorting.py```
+
+4. _now your app is up and running_
+
+
+<!-- LICENSE -->  
+
+## License
+
+Distributed under the MIT License. See `LICENSE` for more information.  
+
+
+
+
+<!-- CONTACT -->
+
+## :man: Project Created & Maintained By -
+
+<h3 align="right">Built with :heart: by  Avinash Kumar Jha</h3>
