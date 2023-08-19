@@ -20,7 +20,7 @@
 
 | Bubble Sort                             |    Merge Sort                               |
 | --------------------------------- | --------------------------------- |
-| <img src="https://user-images.githubusercontent.com/39644109/139861633-bbd78904-3ad5-457a-9739-edba2120242b.gif"  width="300"/> | <img src="https://cdn-images-1.medium.com/max/546/1*UgLSkudf_8i9AiprpLNBhw.gif"  width="300"/> |
+| <p align="center"><img  src="https://user-images.githubusercontent.com/39644109/139861633-bbd78904-3ad5-457a-9739-edba2120242b.gif"  width="90%"/></p> | <p align="center"><img align="center" src="https://cdn-images-1.medium.com/max/564/1*qcn0d0W74ZC4duWXwgiTMA.gif"  width="90%"/></p>|
 
 
 ## Instructions to run
@@ -47,4 +47,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## :man: Project Created & Maintained By -
 
-<h3 align="right">Built with :heart: by  Avinash Kumar Jha</h3>
+<h3 align="right">With :heart:     Avinash Kumar Jha</h3>
