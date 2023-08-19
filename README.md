@@ -3,8 +3,8 @@ Sorting visualizer animation created using python libraries like matplotlib and 
 
 # Output of main
 This file contains visualization of bubble sort<br/><br/>
-![Output of bubble sort](Output/bubblesort.gif)
+![Output of bubble sort](output/bubblesort.gif =250x250)
 <br/><br/>
 # Output of mergesort
 This file contains visualization of merge sort<br/><br/>
-![Output of merge Sort](Output/mergesort.gif)
+![Output of merge Sort](output/mergesort.gif =250x250)
